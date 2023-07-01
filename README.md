@@ -11,7 +11,7 @@
 <p align="left" width="500">
 <h2 align=""> ✨ About me </h2>
 <br>
-I'm currently Part of Web development bootcamp with HYF and dreaming to be part of IT world. I have already experienced the impact on lives created by welcoming technologies into work life. So I am eagerly waiting to connect my previous experience with newly acquired skills, and using it to make positive differences everyone lives. 
+I'm currently Part of Web development bootcamp with [HYF](https://hackyourfuture.dk) and dreaming to be part of IT world. I have already experienced the impact on lives created by welcoming technologies into work life. So I am eagerly waiting to connect my previous experience with newly acquired skills, and using it to make positive differences everyone lives. 
 
 I am a passionate positive person, who like to learn new skills, read books, and try new things.  
 </p>
