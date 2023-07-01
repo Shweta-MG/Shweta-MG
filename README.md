@@ -50,6 +50,9 @@ I am a passionate, positive person, who likes to learn new skills, read books, a
 <code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"></code>
 <code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
 <code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
+<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"></code>
+<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"></code> 
+<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg"></code> 
 </p>
 
 <br>
