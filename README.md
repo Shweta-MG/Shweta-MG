@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="right" alt="Greeting" width="350" src="https://github.com/Shweta-MG/Shweta-MG/blob/main/d4tvukbt5mra37cvwklk.gif" />
+<img align="right" style="margin-left: 50px" alt="Greeting" width="350" src="https://github.com/Shweta-MG/Shweta-MG/blob/main/d4tvukbt5mra37cvwklk.gif" />
 
 <p align="left" width="400">
 <h2 align="center"> ✨ About me </h2>
