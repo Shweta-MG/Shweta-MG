@@ -8,7 +8,7 @@
 
 <img align="right" alt="Greeting" width="400" src="https://github.com/Shweta-MG/Shweta-MG/blob/main/d4tvukbt5mra37cvwklk.gif" />
 
-<p align="left" width="450">
+<p align="left" width="400">
 <h2 align=""> ✨ About me </h2>
 <br>
 I'm currently Part of Web development bootcamp and dreaming to be part of IT world. I have already experienced the impact on lives created by welcoming technologies into work life. So I am eagerly waiting to connect my previous experience with newly acquired skills, and using it to make positive differences everyone lives. 
