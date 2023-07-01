@@ -9,11 +9,11 @@
 <img align="right" alt="Greeting" width="350" src="https://github.com/Shweta-MG/Shweta-MG/blob/main/d4tvukbt5mra37cvwklk.gif" />
 
 <p align="left" width="400">
-<h2 align=""> ✨ About me </h2>
+<h2 align="center"> ✨ About me </h2>
 <br>
-I'm currently Part of Web development bootcamp and dreaming to be part of IT world. I have already experienced the impact on lives created by welcoming technologies into work life. So I am eagerly waiting to connect my previous experience with newly acquired skills, and using it to make positive differences everyone lives. 
+I'm currently Part of Web development bootcamp and dreaming to be part of IT world. I have already experienced impact on lives created by welcoming technologies into work life. So I am eagerly waiting to connect my previous experience with newly acquired skills, and using it to make positive differences in our lives. 
 
-I am a passionate positive person, who like to learn new skills, read books, and try new things.  
+I am a passionate, positive person, who likes to learn new skills, read books, and try new things.  
 </p>
 <br>
 <br>
