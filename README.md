@@ -37,22 +37,21 @@ I am a passionate, positive person, who likes to learn new skills, read books, a
 <br>
                   
 <p align="center">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" "/>  
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" " />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" " />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" "  />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,postman,docker)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,postman,docker)](https://skillicons.dev)
+
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" />
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg"/>
+
 </p>
 
 <br>
