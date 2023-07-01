@@ -46,9 +46,9 @@ I am a passionate, positive person, who likes to learn new skills, read books, a
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,postman,docker,figma)](https://skillicons.dev)
 
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" />
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg"/>
+<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
+<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" />
+<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg"/>
 
 </p>
 
