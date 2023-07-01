@@ -8,10 +8,10 @@
 
 <img align="right"  alt="Greeting" width="350" src="https://github.com/Shweta-MG/Shweta-MG/blob/main/d4tvukbt5mra37cvwklk.gif" />
 
-<p align="left" width="400" style="margin-left: 50px">
+<p align="left" width="400" style="padding-right": 50px">
 <h2 align="center"> ✨ About me </h2>
 <br>
-<p align="left" width="400" style="margin-left: 50px">
+<p align="left" width="400" style="padding-right": 50px">
 I'm currently Part of Web development bootcamp and dreaming to be part of IT world. I have already experienced impact on lives created by welcoming technologies into work life. So I am eagerly waiting to connect my previous experience with newly acquired skills, and using it to make positive differences in our lives. 
 
 I am a passionate, positive person, who likes to learn new skills, read books, and try new things.  
