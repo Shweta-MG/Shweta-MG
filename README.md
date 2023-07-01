@@ -18,6 +18,7 @@ I am a passionate positive person, who like to learn new skills, read books, and
 <br>
 <br>
 <br>
+<br>
 
 - 🤩 I always try to explore and learn something new.
 - 🌱 I’m currently learning Web development and Danish language.
@@ -31,6 +32,7 @@ I am a passionate positive person, who like to learn new skills, read books, and
 
 
 <h2 align="center"> ⚡️ Technology Stacks </h2>
+<br>
                   
 <p align="center">
 <code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
@@ -46,7 +48,11 @@ I am a passionate positive person, who like to learn new skills, read books, and
 <code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"></code>
 </p>
 
+<br>
+<br>
+
 <h2 align="center"> 🤝🏻 Connect with me </h2>
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetamalavgupta/">
