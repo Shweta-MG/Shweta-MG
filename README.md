@@ -37,8 +37,8 @@ I am a passionate, positive person, who likes to learn new skills, read books, a
 <br>
                   
 <p align="center">
-  [<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" style="padding-right: 50px"/>]
-<code></code>
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" style="padding-right: 50px"/>
+ 
   
 <code><img height="45" style="padding-right: 50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="45" style="padding-right: 50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
