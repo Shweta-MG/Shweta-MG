@@ -25,7 +25,7 @@ I am a passionate positive person, who like to learn new skills, read books, and
 - 👯 I’m looking to collaborate with others to sharpens my web development skills.
 - 🥅 Goals: Create a fullstack project from scratch and deploy it. 
 - 🎉 Let's connect [here](https://www.linkedin.com/in/shwetamalavgupta/).
-- 📫 How to reach me: shweta.malav@gmail.com 📩
+- 📫 How to reach me: [📩](shweta.malav@gmail.com).
 - 😄 Pronouns: She\her
 <br>
 
