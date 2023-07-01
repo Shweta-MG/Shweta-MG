@@ -16,6 +16,8 @@ I'm currently Part of Web development bootcamp with HYF and dreaming to be part 
 I am a passionate positive person, who like to learn new skills, read books, and try new things.  
 </p>
 <br>
+<br>
+<br>
 
 - 🤩 I always try to explore and learn something new.
 - 🌱 I’m currently learning Web development and Danish language.
