@@ -28,6 +28,7 @@ I am a passionate, positive person, who likes to learn new skills, read books, a
 - 🥅 Goals: Create a fullstack project from scratch and deploy it. 
 - 🎉 Let's connect [here](https://www.linkedin.com/in/shwetamalavgupta/).
 - 📫 How to reach me: [📩](shweta.malav@gmail.com).
+- 🌱 My detailed portfolio is [here](https://www.linkedin.com/in/shwetamalavgupta](https://htmlpreview.github.io/?https://github.com/Shweta-MG/ShwetaMG-Portfolio/blob/version1/index.html)/).
 - 😄 Pronouns: She\her
 <br>
 
