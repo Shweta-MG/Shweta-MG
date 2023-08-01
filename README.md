@@ -49,7 +49,7 @@ I am a passionate, positive person, who likes to learn new skills, read books, a
 <h2 align="center"> ⚡️ Project Management Stacks </h2>
 <br>
                   
-<p align="center">
+
 
 <img height="65" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
 <img height="65" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" />
