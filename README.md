@@ -61,7 +61,7 @@ I am a passionate, positive person, who likes to learn new skills, read books, a
 <h2 align="center"> 🤝🏻 Connect with me </h2>
 <br>
 
-<p align="center">
+
   <a href="https://www.linkedin.com/in/shwetamalavgupta/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
